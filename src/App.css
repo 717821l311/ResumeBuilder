@@ -1,0 +1,40 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  overflow: hidden;
+  
+}
+
+.list {
+  margin: 10px;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: rgb(17, 12, 12);
+  text-decoration: none;
+  border-radius: 5px;
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+
+}
+
+.list:hover {
+  background-color: #0056b3;
+  color: black;
+}
+
+.Header {
+  background-color: #333;
+  color: rgb(15, 15, 15);
+  padding: 10px;
+}
+
+.Body {
+  padding: 20px;
+}
+
+/* Add more styling as needed */
